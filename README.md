@@ -1,4 +1,4 @@
-# 🚀 Complete GitHub Profile Package — R Abhilash
+--R Abhilash
 
 This single file contains everything: your profile README code, individual project README templates, and the full strategy guide (analysis, recommendations, new project ideas, workflows, badges, bios, action plan, and ATS optimization).
 
